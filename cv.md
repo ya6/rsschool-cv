@@ -19,6 +19,11 @@ In development, I mainly used ready-made layouts, modifying them for myself.
 
 An example of development on JS is a script for marking a picture of a photo wallpaper with a wall size, you can see it here [here](https://stock-up.by/wallpaper).
 
+## Courses
+
+    - self-study based on books and videos
+
+
 
 ## Skills
 To develop and deploy my sites, I went the usual way:
